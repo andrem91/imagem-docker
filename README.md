@@ -1,4 +1,4 @@
-#Imagem do PostgreSQL e PgAdmin para docker compose
+# Imagem do PostgreSQL e PgAdmin para docker compose
 
 Esta imagem foi baseada em dois tutoriais:
 
